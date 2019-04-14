@@ -1,10 +1,11 @@
 var express = require("express");
 var bodyParser = require("body-parser");
+var handler = require("./messageHandler.js")
 var app = express();
 
 app.use(bodyParser.json());
 app.post("/input", function(request, response) {
-	console.log(request.body);
+	handler.handleMessage(request.body);
 	response.send({ status: 'SUCCESS' });
 });
 
