@@ -1,5 +1,9 @@
 # Testing Express.js
 
+### TODO
+- Read Eloquent JavaScript
+- Watch this https://www.youtube.com/watch?v=IyDVvGmzTlo
+
 ### Server details
 Nginx running on DigitalOcean Droplet  
 IP: 188.166.150.158  
