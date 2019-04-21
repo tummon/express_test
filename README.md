@@ -7,7 +7,7 @@
 
 ### Server details
 Nginx running on DigitalOcean Droplet  
-IP: 188.166.150.158  
+
 
 Using PM2 to run the express.js server.  
 `pm2 start express_test.js`  
