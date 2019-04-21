@@ -4,6 +4,7 @@
   "description": "### TODO - Read Eloquent JavaScript - Watch this https://www.youtube.com/watch?v=IyDVvGmzTlo",
   "main": "express_test.js",
   "dependencies": {
+    "ciscospark": "^1.51.0",
     "express": "^4.16.4"
   },
   "devDependencies": {},
