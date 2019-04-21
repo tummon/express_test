@@ -2,6 +2,7 @@
 
 ### TODO
 - Read Eloquent JavaScript
+- Read Web Development with Node and Express: Leveraging the JavaScript Stack
 - Watch this https://www.youtube.com/watch?v=IyDVvGmzTlo
 
 ### Server details
